@@ -1,0 +1,9 @@
+22:34:26.255 [main] DEBUG beta.Demo1 - Iam debugging
+22:34:26.305 [main] INFO  beta.Demo1 - Object is present
+22:34:26.305 [main] ERROR beta.Demo1 - Object is not present
+22:34:26.305 [main] FATAL beta.Demo1 - This is fatal
+22:46:25.573 [main] DEBUG Tests.act - Setting chrome driver property
+22:46:36.849 [main] INFO  Tests.act - Window Maximized
+22:46:36.850 [main] DEBUG Tests.act - Now hitting Amazon server
+22:46:55.621 [main] INFO  Tests.act - Landed on amazon home page
+22:47:08.991 [main] DEBUG Tests.act - Getting the frames count
